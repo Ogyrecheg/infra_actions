@@ -8,4 +8,4 @@
 - Docker
 
 ### Автор проекта:
-студент когорты №17 [Шевченко Александр](https://github.com/Ogyrecheg)
+[Шевченко Александр](https://github.com/Ogyrecheg)
